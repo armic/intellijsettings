@@ -1,7 +1,7 @@
 <scheme name="Solarized Dark." version="142" parent_scheme="Default">
   <metaInfo>
     <property name="description">test</property>
-    <property name="modified">2019-08-15T12:53:01</property>
+    <property name="modified">2019-08-15T15:02:25</property>
     <property name="vendorMail" />
     <property name="vendorName" />
     <property name="vendorUrl">http://</property>
@@ -550,7 +550,7 @@
     </option>
     <option name="PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
